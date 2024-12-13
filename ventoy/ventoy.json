@@ -1,26 +1,6 @@
-/*
- * ----------------------------------
- *
- * @author      : 00xWolf
- *   GitHub    : @mmsaeed509
- *   Developer : Mahmoud Mohamed
- * 﫥  Copyright : Mahmoud Mohamed
- *
- * ---------------------------------
- *
-*/
-
 {
   "theme":{
-    "file": "/ventoy/themes/NeonPurple/theme.txt",
-    "gfxmode": "1920x1080"
-  },
-  "theme_legacy":{
-    "file": "/ventoy/themes/NeonPurple/theme.txt",
-    "gfxmode": "1920x1080"
-  },
-  "theme_uefi":{
-    "file": "/ventoy/themes/NeonPurple/theme.txt",
-    "gfxmode": "1920x1080"
+    "file": "/ventoy/theme/NeonPurple/theme.txt",
+     "gfxmode": "1920x1080"
   }
 }
